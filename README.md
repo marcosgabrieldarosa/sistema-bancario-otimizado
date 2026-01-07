@@ -1,46 +1,34 @@
-# 🏦 Sistema Bancário Otimizado
+# 🏦 Sistema Bancário Otimizado em Python
 
-Projeto desenvolvido em **Python** com foco em **lógica de programação**, **organização de código** e **boas práticas**, simulando um sistema bancário simples via terminal.
+Este repositório apresenta a evolução de um **sistema bancário desenvolvido em Python**, criado como parte dos desafios da **DIO**, com foco em **Programação Orientada a Objetos (POO)**.
 
-Este repositório representa a **evolução prática** de um desafio proposto pela **DIO (Digital Innovation One)**, onde o sistema foi aprimorado em versões sucessivas.
+O projeto foi estruturado de forma **evolutiva**, demonstrando claramente o amadurecimento técnico entre as versões, desde uma implementação inicial até uma solução mais organizada, profissional e próxima de sistemas reais.
+
+---
+
+## 🔗 Acesso Rápido
+
+- 👉 [Versão 1 — Fundamentos de POO](./desafio.poo.v1)
+- 👉 [Versão 2 — Arquitetura OOP Avançada](./desafio.poo.v2)
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
-O objetivo principal deste projeto é:
-
-- Praticar **funções**, **parâmetros posicionais e nomeados**
-- Aplicar conceitos de **estruturação de código**
-- Simular regras reais de um sistema bancário
-- Evoluir de uma solução simples para uma versão mais organizada e escalável
-- Consolidar fundamentos essenciais de **Python Back-end**
+- Consolidar conceitos fundamentais de Programação Orientada a Objetos
+- Demonstrar evolução prática em arquitetura de software
+- Simular um sistema bancário realista em ambiente educacional
+- Servir como material de estudo e portfólio técnico
 
 ---
 
-## 🧠 Funcionalidades Implementadas
+## 📂 Estrutura do Repositório
 
-✔ Depósito de valores  
-✔ Saque com:
-- Limite diário
-- Limite por operação
-- Controle de quantidade de saques  
+- 📁 [desafio.poo.v1](./desafio.poo.v1)
+  - 📄 [main.py](./desafio.poo.v1/main.py)
+  - 📄 [README.md](./desafio.poo.v1/README.md)
 
-✔ Emissão de extrato detalhado  
-✔ Cadastro de usuários (CPF único)  
-✔ Criação de contas bancárias vinculadas a usuários  
-✔ Listagem de contas cadastradas  
+- 📁 [desafio.poo.v2](./desafio.poo.v2)
+  - 📄 [main.py](./desafio.poo.v2/main.py)
+  - 📄 [README.md](./desafio.poo.v2/README.md)
 
----
-
-## 🗂 Estrutura do Repositório
-
-```text
-sistema-bancario-otimizado/
-│
-├── README.md
-├── desafio.poo.v1/
-│   └── sistema_bancario_v1.py
-│
-└── desafio.poo.v2/
-    └── sistema_bancario_v2.py
