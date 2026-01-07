@@ -6,19 +6,19 @@ O projeto foi estruturado de forma **evolutiva**, demonstrando claramente o amad
 
 ---
 
-## 🔗 Acesso Rápido
+## 🔗 Quick Access
 
 - 👉 [Versão 1 — Fundamentos de POO](./desafio.poo.v1)
 - 👉 [Versão 2 — Arquitetura OOP Avançada](./desafio.poo.v2)
 
 ---
 
-## 🎯 Objetivo do Projeto
+## 🎯 Objetivos do projeto
 
 - Consolidar conceitos fundamentais de Programação Orientada a Objetos
 - Demonstrar evolução prática em arquitetura de software
 - Simular um sistema bancário realista em ambiente educacional
-- Servir como material de estudo e portfólio técnico
+- Servir como material de estudo e **portfólio técnico**
 
 ---
 
@@ -32,3 +32,16 @@ O projeto foi estruturado de forma **evolutiva**, demonstrando claramente o amad
   - 📄 [main.py](./desafio.poo.v2/main.py)
   - 📄 [README.md](./desafio.poo.v2/README.md)
 
+---
+
+## 🧠 Sobre este projeto
+
+Este projeto não se limita à implementação de funcionalidades, mas evidencia a **evolução do pensamento orientado a objetos**, organização de código, separação de responsabilidades e modelagem mais próxima de sistemas bancários reais.
+
+Cada versão reflete um estágio de maturidade técnica, reforçando boas práticas de desenvolvimento e clareza arquitetural.
+
+---
+
+📌 **Nota final**  
+
+Este repositório reflete a evolução prática no uso de **Programação Orientada a Objetos com Python**, com foco em **organização, legibilidade, boas práticas e modelagem próxima de sistemas reais**.
